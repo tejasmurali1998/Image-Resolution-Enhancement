@@ -1,2 +1,2 @@
 # Image-Resolution-Enhancement
-Improving image resolution, pixel quality and quantity, and upsampling images by 4x using ESRGAN and GAN. Used MIT Adobe 5K dataset. Code can be ran in the code file but is computationally intensive (training takes several hours) so the outputs are shown. 
+Improving image resolution, pixel quality and quantity, and upsampling images by 4x using ESRGAN and GAN. Used MIT Adobe 5K dataset. Code can be ran in the code file but is computationally intensive (training takes several hours) so the outputs are shown. Final project report is also attached for further understanding; image denoising sections are partner's contribution (this is essentially 2 projects combined into one).
